@@ -25,7 +25,7 @@ function Hader() {
           <a className="nav-link active" href="#">الناشئون</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">الكبار</a>
+          <a className="nav-link active" href="#">الكبار</a>
         </li>
         <li className="nav-item">
           <h1 className={"hh1"}>المعسكرات و البرامج</h1>
