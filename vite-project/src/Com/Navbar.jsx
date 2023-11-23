@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <div>
-<nav data-mdb-navbar-init class="navbar navbar-expand-lg navbar-light bg-body-tertiary">
+<nav data-mdb-navbar-init className={"navbar navbar-expand-lg navbar-light bg-body-tertiary nav"}>
   <div className="container-fluid">
     <button
       data-mdb-collapse-init
