@@ -1,3 +1,24 @@
+
+body{
+    margin: 0;
+}
+.containerp-4{
+    width: 100%;
+    background-color: rgb(76, 54, 150);
+    margin: 0pxs;
+    
+}
+
+.img{
+    margin-top: 50px;
+    width: 60%;
+}
+.textbody{
+    color: white;
+    font-size:larger;
+    
+}
+
 .navbar{
   background-color: #4E3797;
   width: 100%;

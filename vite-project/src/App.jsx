@@ -1,4 +1,5 @@
 import './App.css'
+import Foter from './Foter/Foter'
 import Navbar from './Com/Navbar'
 import Hader from './Com/Hader'
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <Navbar/>
       <Hader/>
+    <Foter/>
     </>
   )
 }
