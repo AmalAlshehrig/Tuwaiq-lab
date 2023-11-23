@@ -42,7 +42,7 @@ function Navbar() {
       <a className="navbar-brand mt-2 mt-lg-0 m-0" href="#">
         <img
           src="https://tuwaiq.edu.sa/img/logos/logo.svg"
-          height="15"
+          height="20"
           alt="TA"
           loading="lazy"
         />

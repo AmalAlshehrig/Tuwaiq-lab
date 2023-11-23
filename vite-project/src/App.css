@@ -24,15 +24,14 @@ body{
 }
 .nav-link{
   color: white;
-  
+  width: 100%;
 }
 .hh1{
   color:#4E3797;
 }
 .item{
   display: flex;
-  margin-left: 40%;
-  
+  margin-left: 60%;
 }
 .btn{
 border-radius: 30%;
