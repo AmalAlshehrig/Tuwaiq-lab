@@ -17,10 +17,11 @@ function Navbar() {
       <i className="fas fa-bars"></i>
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul className="navbar-nav me-auto mb-2 mb-lg-0 ">
+    <ul className="navbar-nav me-auto mb-2 mb-lg-0 m-0">
     <li className="nav-item ">
           <a className="nav-link">تسجيل</a>
         </li>
+        <div className={'item'}>
     <li className="nav-item">
           <a className="nav-link">مركز الإختبارات</a>
         </li>
@@ -31,11 +32,12 @@ function Navbar() {
           <a className="nav-link">حول الأكاديمية</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link">المعسكرات و البرامج</a>
+          <a className="nav-link">المعسكرات والبرامج</a>
         </li>
         <li className="nav-item">
           <a className="nav-link">الرئيسية</a>
         </li>
+        </div>
       </ul>
       <a className="navbar-brand mt-2 mt-lg-0 m-0" href="#">
         <img
