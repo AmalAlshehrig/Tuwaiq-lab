@@ -31,3 +31,133 @@ body{
 .hh1{
   color:#4E3797;
 }
+.card1{
+    width: 100% ;
+    height: 550px;
+     background-color:rgba(192, 192, 192, 0.447);
+     padding-top:1px;
+
+}
+
+.class4{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 50;
+  
+}
+.squer1{
+    border-style: solid;
+    border-color: white;
+    border-radius: 4%;
+    border-right-width: 15px;
+    border-right-color:#4E3797;;
+    width: 30%;
+    height: 300px;
+    position: absolute;
+    left: 730px;
+    background-color: white;
+    cursor: pointer;
+    transition: 0.3s;
+    }
+    .squer1:hover{
+        border-style: solid;
+        border-color: white;
+        border-radius: 4%;
+        border-right-width: 15px;
+        border-right-color:#4E3797;;
+        width: 31%;
+        height: 330px;
+        background-color: white;
+        
+        }
+    .squer2{
+        border-style: solid;
+        border-color: white;
+        border-radius: 4%;
+        border-right-width: 15px;
+        border-right-color: #91D8DB;
+        width: 30%;
+        height: 300px;
+        position: absolute;
+        left: 390px;
+        background-color: white;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    .squer2:hover{
+        border-style: solid;
+        border-color: white;
+        border-radius: 4%;
+        border-right-width: 15px;
+        border-right-color: #91D8DB;
+        width: 31%;
+        height: 330px;
+        position: absolute;
+        left: 370px;
+        background-color: white;
+    }
+    .squer3{
+        border-style: solid;
+        border-color: white;
+        border-radius: 4%;
+        border-right-width: 15px;
+        border-right-color: #91D8DB;
+        width: 30%;
+        height: 300px;
+        position: absolute;
+        left: 50px;
+        background-color: white;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    .squer3:hover{
+        border-style: solid;
+        border-color: white;
+        border-radius: 4%;
+        border-right-width: 15px;
+        border-right-color: #91D8DB;
+       width: 31%;
+        height: 3px;
+        position: absolute;
+        left: 30px;
+        background-color: white;
+        cursor: pointer;
+        transition: 0.3s; 
+    }
+    .div1{
+        width: 100%;
+        height: auto;
+         text-align: end;
+         position: relative;
+         bottom: 30px;
+    }
+    .div2{
+        width: 100%;
+         height:auto;
+         display: flex;
+         justify-content:flex-end;
+
+    }
+    .div3{
+        text-align: end;
+
+    }
+    .ditels{
+        position:relative;
+        left: 300px;
+    }
+    .p1{
+        margin-right: 20px;
+    }
+    .tetel{
+        color:#4E3797;;
+        font-size:larger;
+    }
+    .tete2{
+        color: #91D8DB;
+        font-size:larger;
+    }
+   
