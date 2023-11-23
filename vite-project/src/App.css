@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
 }
@@ -16,6 +17,17 @@ body{
     color: white;
     font-size:larger;
     
-   
+}
 
+.navbar{
+  background-color: #4E3797;
+  width: 100%;
+  height: auto;
+}
+.nav-link{
+  color: white;
+  display: flex;
+}
+.hh1{
+  color:#4E3797;
 }
