@@ -21,12 +21,14 @@ function Hader() {
       id="navbarCenteredExample"
     >
       <ul className="navbar-nav mb-2 mb-lg-0">
+        <div className={'divhader'}>
         <li className="nav-item">
-          <a className="nav-link active" href="#">الناشئون</a>
+          <button className='btn'>الناشئون</button>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" href="#">الكبار</a>
+            <button className='btn'>الكبار</button>
         </li>
+        </div>
         <li className="nav-item">
           <h1 className={"hh1"}>المعسكرات و البرامج</h1>
         </li>
